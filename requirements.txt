@@ -1,0 +1,6 @@
+flask
+pytesseract
+gevent
+pillow
+opencv-contrib-python-headless
+nltk
