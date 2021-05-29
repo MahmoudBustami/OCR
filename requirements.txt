@@ -4,3 +4,5 @@ gevent
 pillow
 opencv-contrib-python-headless
 nltk
+gunicorn
+Werkzeug
