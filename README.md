@@ -1,6 +1,5 @@
 # OCR API Build With Python
 
-Postman : [Click Here](https://www.getpostman.com/collections/62b8b6aa4c324c27d6d3)
 
 # Modules!
 
@@ -35,8 +34,4 @@ Postman : [Click Here](https://www.getpostman.com/collections/62b8b6aa4c324c27d6
 }
 
 ```
-
-### Sample Image Result
-
-![Imgur Image](https://i.imgur.com/OWuoF6v.png)
 
