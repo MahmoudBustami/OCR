@@ -1,4 +1,4 @@
-# OCR API Build With Python
+# OCR API 
 
 
 # Modules!
